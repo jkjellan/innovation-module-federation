@@ -45,7 +45,7 @@ module.exports = {
 
   plugins: [
     new ModuleFederationPlugin({
-      name: "search",
+      name: "search1",
       filename: "remoteEntry.js",
       remotes: {
         checkout: "checkout@http://localhost:8082/remoteEntry.js",

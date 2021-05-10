@@ -1,0 +1,32 @@
+@import "../../../node_modules/@lmig/liberty-ui-tokens/scss/color.scss";
+
+:export {
+  primarycolor: $lm-color-icon-brand-default;
+  secondarycolor: $lm-color-icon-system-info;
+  backgroundwhite : $lm-color-background-white;
+  backgroundgraylight: $lm-color-background-atmospheric;
+  borderlight: $lm-color-border-light;
+  primarytextcolor: $lm-color-text-default;
+  secondarytextcolor: $lm-color-text-light;
+  buttonprimarybackground: $lm-color-button-primary-background;
+  buttonprimaryborder: $lm-color-button-primary-border;
+  buttonprimarytext: $lm-color-button-primary-text;
+  buttonprimarybackgroundhover: $lm-color-button-primary-background-hover;
+  buttonprimaryborderhover: $lm-color-button-primary-border-hover;
+  buttonprimarytexthover: $lm-color-button-primary-text-hover;
+  buttonprimarybackgroundpressed: $lm-color-button-primary-background-pressed;
+  buttonprimaryborderpressed: $lm-color-button-primary-border-pressed;
+  buttonprimarytextpressed: $lm-color-button-primary-text-pressed;
+  buttonsecondarybackground: $lm-color-button-secondary-background;
+  buttonsecondaryborder: $lm-color-button-secondary-border;
+  buttonsecondarytext: $lm-color-button-secondary-text;
+  buttonsecondarybackgroundhover: $lm-color-button-secondary-background-hover;
+  buttonsecondaryborderhover: $lm-color-button-secondary-border-hover;
+  buttonsecondarytexthover: $lm-color-button-secondary-text-hover;
+  buttonsecondarybackgroundpressed: $lm-color-button-secondary-background-pressed;
+  buttonsecondaryborderpressed: $lm-color-button-secondary-border-pressed;
+  buttonsecondarytextpressed: $lm-color-button-secondary-text-pressed;
+  buttondisabledbackground: $lm-color-button-disabled-background;
+  buttondisabledborder: $lm-color-button-disabled-border;
+  buttondisabledtext: $lm-color-button-disabled-text;
+}

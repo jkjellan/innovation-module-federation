@@ -1,0 +1,9 @@
+@import "../../node_modules/@lmig/liberty-ui-tokens/scss/color.scss";
+
+html, body, #app {
+  background-color: $lm-color-background-white;
+  margin: 0;
+  height: 100%;
+  color: $lm-color-text-default;
+  font-family: 'Roboto', 'Helvetica', sans-serif;
+}
